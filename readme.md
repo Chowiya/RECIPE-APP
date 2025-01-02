@@ -1,4 +1,4 @@
-# Recipe App
+# Recipe App Task
 
 ## A CRUD (Create, Read, Update, Delete) application to manage recipes, built with Node.js, Express.js, and Mongoose (MongoDB), following the MVC architecture.
 
